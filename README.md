@@ -38,6 +38,8 @@ siis sai tehtud uus directory
 
 **mkvirtualenv myproject**
 
+**workon myproject**
+
 **cd main**
 
 **localhost:8000** peaks olema brauseris avatav
